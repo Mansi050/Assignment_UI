@@ -1,0 +1,15 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cucumberautocomplete.steps": [
+        "src/test/java/Step_Definations/*.java"
+    ],
+    "cucumberautocomplete.syncfeatures": "src/test/resources/features",
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "cucumberautocomplete.smartSnippets": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
